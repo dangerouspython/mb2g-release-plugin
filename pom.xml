@@ -4,7 +4,7 @@
 
     <groupId>in.sahoo.ranjan.hruday</groupId>
     <artifactId>hrs-release-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <properties>
         <java.version>11</java.version>
@@ -20,7 +20,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/dangerouspython/mb2g-release-plugin.git</developerConnection>
         <url>https://github.com/dangerouspython/mb2g-release-plugin</url>
-        <tag>HEAD</tag>
+        <tag>hrs-release-plugin-1.1</tag>
     </scm>
 
     <dependencies>
