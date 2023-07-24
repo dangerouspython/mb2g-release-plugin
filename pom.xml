@@ -7,7 +7,7 @@
     <version>1.1-SNAPSHOT</version>
 
     <properties>
-        <java.version>18</java.version>
+        <java.version>11</java.version>
         <default.encoding>UTF-8</default.encoding>
         <project.build.sourceEncoding>${default.encoding}</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${default.encoding}</project.reporting.outputEncoding>
